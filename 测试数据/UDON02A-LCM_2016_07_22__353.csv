@@ -1,0 +1,25 @@
+
+
+Date: 2016-07-22   14:24:52
+------------------------------------------------------------------
+
+>>>Test Start   
+
+
+<<< Connection Test Start >>>
+[PanelInfo]
+ProductName [[EventFormatInfo]]
+FormatID [65535] ItemSize [255]
+
+Connection Test : PASS
+
+<<< Connection Test End >>>
+
+<<< Version Test Start >>>
+from TSP [Boot : 0xFFFF Core : 0xFFFF Custom : 0xFFFF Param : 0xFFFF]
+from INI [Boot : 0xEEEE Core : 0x0200 Custom : 0x0114 Param : 0x0114]
+Version Test Result : FAIL
+
+
+<<< DOWNLOAD START >>>
+<<< DOWNLOAD RESULT : FAIL >>>
